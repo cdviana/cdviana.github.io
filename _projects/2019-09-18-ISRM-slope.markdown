@@ -8,9 +8,9 @@ categories:
 img: ISRM2.PNG
 thumb: thumb02.jpg
 carousel:
-- PG_1.jpg
+- PG_1.png
 - PG_2.jpg
-- PG_3.jpg
+- PG_3.png
 tagged: SfM, Photogrammetry, Fractures, Slope stability
 client: 14th ISRM International Congress on Rock Mechanics and Rock Engineering
 website: https://www.crcpress.com/Rock-Mechanics-for-Natural-Resources-and-Infrastructure-Development---Full/Fontoura-Rocca-Mendoza/p/book/9780367422844
