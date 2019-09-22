@@ -12,6 +12,7 @@ carousel:
 - single02.jpg
 - single03.jpg
 tagged: SfM, Photogrammetry, Fractures
+client: 14th ISRM International Congress on Rock Mechanics and Rock Engineering
 website: https://www.crcpress.com/Rock-Mechanics-for-Natural-Resources-and-Infrastructure-Development---Full/Fontoura-Rocca-Mendoza/p/book/9780367422844
 ---
 #### SfM-MVS digital models applied to rock surface roughness
