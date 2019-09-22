@@ -32,18 +32,13 @@ collections:
 
 ### CONTACT SETTINGS ###
 
-# Social networks usernames. Many more available: google-plus, flickr, linkedin, etc). Shown in footer.
+# Social networks usernames. Many more available: google-plus, flickr, linkedin,twitter, instagram, tumblr etc). Shown in footer.
 social:
   - title: linkedin
     url: "https://www.linkedin.com/in/camila-viana-2b63a238"
   - title: facebook
     url: "https://www.facebook.com/camiladviana"
-  - title: twitter
-    url:
-  - title: instagram
-    url:
-  - title: tumblr
-    url:
+
 
 # Postal address (add as many lines as necessary). Shown in footer and on Contact page.
 address:
@@ -69,7 +64,7 @@ members:
     social:
       - title: envelope #use for email address
         url: mailto:guano@usp.br
-      - title: page
+      - title: url
         url: https://carlosgrohmann.com/
 
 # Clients information. Shown on Home and About pages.
