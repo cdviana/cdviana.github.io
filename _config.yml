@@ -1,8 +1,8 @@
 ### GENERAL SETTINGS ###
 
 # Site settings
-title: SOLID.
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+title: VIANA, C.D.
+description: "Personal site and blog of Camila Duelis Viana."
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
 baseurl: "/" #important: start with /
 url: "http://cdviana.github.io"
@@ -34,10 +34,10 @@ collections:
 
 # Social networks usernames. Many more available: google-plus, flickr, linkedin, etc). Shown in footer.
 social:
-  - title: dribbble
-    url:
+  - title: linkedin
+    url: "https://www.linkedin.com/in/camila-viana-2b63a238"
   - title: facebook
-    url:
+    url: "https://www.facebook.com/camiladviana"
   - title: twitter
     url:
   - title: instagram
@@ -46,59 +46,32 @@ social:
     url:
 
 # Postal address (add as many lines as necessary). Shown in footer and on Contact page.
-address:
-  - lines:
-    - Some Ave, 987,
-    - 23890, New York,
-    - United States.
-email: hello@solidtheme.com
-tel: +34 8493-4893
+#address:
+#  - lines:
+#    - Some Ave, 987,
+#    - 23890, New York,
+#    - United States.
+email: camila.viana@usp.com
+#tel: +34 8493-4893
 
 
 ### GENERAL DATA FOR VARIOUS LOCATIONS ###
 
 # Members information. Shown on About page.
 members:
-  - name: Mark Webber
-    position: CEO
-    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+  - name: Prof. Carlos Henrique Grohmann
+    position: PhD Advisor
+    text: He advised me during scientific internship (2009) and undergrad (2012). Head of SPAMLab.
     img: team01.jpg
     social:
       - title: envelope #use for email address
-        url: mailto:name@domain.com
-      - title: twitter
-        url: http://twitter.com/handle
-  - name: Paul Jameson
-    position: Lead Designer
-    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-    img: team02.jpg
-    social:
-      - title: envelope #use for email address
-        url: mailto:name@domain.com
-      - title: twitter
-        url: http://twitter.com/handle
-  - name: Laura Sommers
-    position: Lead Developer
-    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-    img: team03.jpg
-    social:
-      - title: envelope #use for email address
-        url: mailto:name@domain.com
-      - title: twitter
-        url: http://twitter.com/handle
-  - name: Martin Blunt
-    position: Marketing
-    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-    img: team04.jpg
-    social:
-      - title: envelope #use for email address
-        url: mailto:name@domain.com
-      - title: twitter
-        url: http://twitter.com/handle
+        url: mailto:guano@usp.br
+      - title: homepage
+        url: https://carlosgrohmann.com/
 
 # Clients information. Shown on Home and About pages.
 clients:
-  - name: dribbble
+  - name: SPAMLab
     img: client01.png
   - name: Code is Poetry
     img: client02.png
