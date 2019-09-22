@@ -18,9 +18,9 @@ In 2019 the 14th ISRM congress took place at Foz do Iguassu, Brazil, from Septem
 
 >Slope stability assessment based on a Digital Outcrop Model: a case-study at Jardim Garcia quarry
 
-On the same occasion I had the opportunity to take the short course "The Integration of Structural Geology and Applied Rock Mechanics" with the instruction of Dr. Nick Barton and Prof. John Cosgrove. It is hard to describe the joy I had in meeting Prof. Cosgrove in person, and then hearing from him over lunch "I have faith in you" when tellng him about my PhD reserach.
+On the same occasion I had the opportunity to take the short course "The Integration of Structural Geology and Applied Rock Mechanics" with the instruction of Dr. Nick Barton and Prof. John Cosgrove. It is hard to describe the joy I had in meeting Prof. Cosgrove in person, and then hearing from him over lunch "I have faith in you" when telling him about my PhD reserach.
 
-In general, the technical sessions showed a tendency in the use of technologies for the characterization of rock massifs, mainly fractures. However, it is noteworthy that several invited speakers emphasized the need for fieldwork and in-depth knowledge of traditional techniques.
+In general, the technical sessions showed a tendency in the use of technologies for the characterization of rock massifs, mainly fractures: 3D printing, Photogrammetry, numerical modelling, etc. However, it is noteworthy that several invited speakers emphasized the need for fieldwork and in-depth knowledge of traditional techniques.
 
 The next congress will be at Salzburg, Austria, in 2024. I am already planning my trip!
 
