@@ -5,7 +5,7 @@ date:   2016-02-27 00:00:00
 author: Viana, CD; Endlein, A; Campanha, GAC & Grohmann, CH
 categories:
 - MSc
-img: CAGEO.JPG
+img: CAGE.PNG
 thumb: thumb02.jpg
 carousel:
 - CAGEO_1.PNG
