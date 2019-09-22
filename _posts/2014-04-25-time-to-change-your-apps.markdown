@@ -1,31 +1,27 @@
 ---
 layout: post
-title: "Time to change your apps"
-date: 2014-04-25 16:54:46
-author: Admin
+title: "My first ISRM Congress"
+date: 2019-09-22 16:56:00
+author: Camila Duelis Viana
 categories: 
 - blog 
-- Wordpress
-- Photoshop
-img: post01.jpg
+- Congress
+img: ISRM_blog.jpg
 thumb: thumb01.jpg
 ---
 
-<b>Lorem Ipsum</b> is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+<b>ISRM</b>, or [International Society for Rock Mechanics and Rock Engineering][ISRM], was founded in Salzburg in 1962 mainly by Prof. Leopold Müller who acted as President of the Society till September 1966. The field of Rock Mechanics is taken to include all studies relative to the physical and mechanical behaviour of rocks and rock masses and the applications of this knowledge for the better understanding of geological processes and in the fields of Engineering.<!--more-->
 
-It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. <!--more-->
-It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+In 2019 the 14th ISRM congress took place at Foz do Iguassu, Brazil, from September 13 to 18, and so I attended and presented two posters that you can find information at the <b>Publications</b> section:
 
-Contrary to popular belief, <b>Lorem Ipsum is not simply random text</b>. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at [Hampden-Sydney College][hampden] in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source.<
+>SfM-MVS digital models applied to rock surface roughness
 
-Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.
+>Slope stability assessment based on a Digital Outcrop Model: a case-study at Jardim Garcia quarry
 
-####Why do we use it?
-It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.
+On the same occasion I had the opportunity to take the short course "The Integration of Structural Geology and Applied Rock Mechanics" with the instruction of Dr. Nick Barton and Prof. John Cosgrove. It is hard to describe the joy I had in meeting Prof. Cosgrove in person, and then hearing from him over lunch "I have faith in you" when tellng him about my PhD reserach.
 
+In general, the technical sessions showed a tendency in the use of technologies for the characterization of rock massifs, mainly fractures. However, it is noteworthy that several invited speakers emphasized the need for fieldwork and in-depth knowledge of traditional techniques.
 
->Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).
+The next congress will be at Salzburg, Austria, in 2024. I am already planning my trip!
 
-There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.
-
-[hampden]: https://github.com/jekyll/jekyll
+[ISRM]: https://www.isrm.net/
