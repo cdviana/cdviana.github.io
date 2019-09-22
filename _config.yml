@@ -47,12 +47,15 @@ social:
 
 # Postal address (add as many lines as necessary). Shown in footer and on Contact page.
 #address:
-#  - lines:
-#    - Some Ave, 987,
-#    - 23890, New York,
-#    - United States.
+  - lines:
+    - Av. Professor Luciano Gualberto, 1289, Cidade Universitária
+    - 05508-010 - São Paulo – SP – Brasil
+    -
+    - LatLong -23.558799,-46.735672
+    - 23°33’31.68”S, 46°44’8.42”W
+    - UTM 23K 322847 E / 7393546 N23890, New York,
 email: camila.viana@usp.com
-#tel: +34 8493-4893
+tel: +55 11 3091 2627
 
 
 ### GENERAL DATA FOR VARIOUS LOCATIONS ###
