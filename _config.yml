@@ -76,12 +76,12 @@ members:
 clients:
   - name: SPAMLab
     img: spamlogo.png
-#  - name: Code is Poetry
-#    img: client02.png
-#  - name: Vimeo
-#    img: client03.png
-#  - name: VimeoPro
-#    img: client04.png
+  - name: Instituto de Geociências - USP
+    img: igclogo.png
+  - name: SMSU
+    img: smsulogo.png
+  - name: COMDEC
+    img: comdeclogo.png
 
 # Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
 about: "I’m a PhD student at the Institute of Geosciences of the University of São Paulo, Brazil.
