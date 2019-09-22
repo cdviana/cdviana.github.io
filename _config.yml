@@ -62,7 +62,7 @@ members:
   - name: Prof. Carlos Henrique Grohmann
     position: PhD Advisor
     text: He advised me during scientific internship (2009) and undergrad (2012). Head of SPAMLab.
-    img: team01.jpg
+    img: guano1.jpg
     social:
       - title: envelope #use for email address
         url: mailto:guano@usp.br
@@ -72,19 +72,20 @@ members:
 # Clients information. Shown on Home and About pages.
 clients:
   - name: SPAMLab
-    img: client01.png
-  - name: Code is Poetry
-    img: client02.png
-  - name: Vimeo
-    img: client03.png
-  - name: VimeoPro
-    img: client04.png
+    img: spamlogo.png
+#  - name: Code is Poetry
+#    img: client02.png
+#  - name: Vimeo
+#    img: client03.png
+#  - name: VimeoPro
+#    img: client04.png
 
 # Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
-about: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
+about: "I’m a PhD student at the Institute of Geosciences of the University of São Paulo, Brazil.
+My research interests include Photogrammetry, UAVs, LiDAR, Remote Sensing, Free Software (FOSS), DEMs, GIS, Structural Geology, Rock Mechanics and Rock Engineering."
 
 # Testimonial content. Shown on Home and About page.
-testimonial:
-    message: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
-    author: Marcel Newman
-    position: WEB DESIGNER - BLACKTIE.CO
+#testimonial:
+#    message: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
+#    author: Marcel Newman
+#    position: WEB DESIGNER - BLACKTIE.CO
