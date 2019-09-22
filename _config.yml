@@ -46,7 +46,7 @@ social:
     url:
 
 # Postal address (add as many lines as necessary). Shown in footer and on Contact page.
-#address:
+address:
   - lines:
     - Av. Professor Luciano Gualberto, 1289, Cidade Universitária
     - 05508-010 - São Paulo – SP – Brasil
@@ -69,7 +69,7 @@ members:
     social:
       - title: envelope #use for email address
         url: mailto:guano@usp.br
-      - title: homepage
+      - title: page
         url: https://carlosgrohmann.com/
 
 # Clients information. Shown on Home and About pages.
