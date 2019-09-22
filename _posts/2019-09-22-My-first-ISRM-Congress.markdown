@@ -7,7 +7,7 @@ categories:
 - blog 
 - Congress
 img: ISRM_blog.jpg
-thumb: thumb01.jpg
+thumb: martelo_thumb.PNG
 ---
 
 <b>ISRM</b>, or [International Society for Rock Mechanics and Rock Engineering][ISRM], was founded in Salzburg in 1962 mainly by Prof. Leopold Müller who acted as President of the Society till September 1966. The field of Rock Mechanics is taken to include all studies relative to the physical and mechanical behaviour of rocks and rock masses and the applications of this knowledge for the better understanding of geological processes and in the fields of Engineering.<!--more-->
