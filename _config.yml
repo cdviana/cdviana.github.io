@@ -13,11 +13,11 @@ permalink: /:categories/:title/
 excerpt_separator: <!--more--> #use this in posts to define how long the excerpt of the post (that is shown on the Blog page) is
 
 colors:  #in hex code if not noted else
-  primary: "#00b3fe" #"#F70031"
-  primary_rgb: "0,179,254" #"247,0,49" #rgb of the primary. Needed in some places for the transparency effect.
-  secondary: "#384452" #"#33004D"
+  primary: "#2C3531" #"#F70031"
+  primary_rgb: "44,53,49" #"247,0,49" #rgb of the primary. Needed in some places for the transparency effect.
+  secondary: "#116466" #"#33004D"
   link: "#428bca"
-  link_hover: "#01b2fe"
+  link_hover: "#FFCB9A"
   footer_heading: "#ffffff"
   footer_content: "#bfc9d3"
 
@@ -35,7 +35,7 @@ collections:
 # Social networks usernames. Many more available: google-plus, flickr, linkedin,twitter, instagram, tumblr etc). Shown in footer.
 social:
   - title: linkedin
-    url: "https://www.linkedin.com/in/camila-viana-2b63a238"
+    url: "https://www.linkedin.com/in/camila-duelis-viana"
   - title: facebook
     url: "https://www.facebook.com/camiladviana"
 
@@ -43,14 +43,12 @@ social:
 # Postal address (add as many lines as necessary). Shown in footer and on Contact page.
 address:
   - lines:
-    - Av. Professor Luciano Gualberto, 1289, Cidade Universitária
-    - 05508-010 - São Paulo – SP – Brasil
-    -
-    - LatLong -23.558799,-46.735672
-    - 23°33’31.68”S, 46°44’8.42”W
-    - UTM 23K 322847 E / 7393546 N23890, New York,
+    - Rua do Lago, 562, Cidade Universitária
+    - 05508-080 - São Paulo – SP – Brazil
+    - 23°33’42.48”S, 46°43’39.87”W
+
 email: camila.viana@usp.com
-tel: +55 11 3091 2627
+tel: +55 11 3091 4242
 
 
 ### GENERAL DATA FOR VARIOUS LOCATIONS ###
@@ -58,9 +56,19 @@ tel: +55 11 3091 2627
 # Members information. Shown on About page.
 members:
   - name: Prof. Carlos Henrique Grohmann
-    position: PhD Advisor
-    text: He advised me during scientific internship (2009) and undergrad (2012). Head of SPAMLab.
+    position: Associate Professor - IEE-USP
+    text: Head of [SPAMLab](https://spamlab.github.io/). We work together on research related to drones, GIS and digital models. Was my undergrad and PhD supervisor.
     img: guano1.jpg
+    social:
+      - title: envelope #use for email address
+        url: mailto:guano@usp.br
+      - title: url
+        url: https://carlosgrohmann.com/
+
+  - name: Prof. Ginaldo A. C. Campanha
+    position: Associate Professor - IGc-USP
+    text: We work together on research related to structural geology. Was my MSc supervisor.
+    img: Ginaldo-Campanha.jpg
     social:
       - title: envelope #use for email address
         url: mailto:guano@usp.br
@@ -69,14 +77,12 @@ members:
 
 # Clients information. Shown on Home and About pages.
 clients:
-  - name: SPAMLab
-    img: spamlogo.png
   - name: Instituto de Geociências - USP
     img: igclogo.png
-  - name: SMSU
-    img: smsulogo.png
-  - name: COMDEC
-    img: comdeclogo.png
+  - name: SPAMLab
+    img: spamlogo.png
+
+
 
 # Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
 about: "I’m a PhD student at the Institute of Geosciences of the University of São Paulo, Brazil.
