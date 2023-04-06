@@ -38,6 +38,8 @@ social:
     url: "https://www.linkedin.com/in/camila-duelis-viana"
   - title: facebook
     url: "https://www.facebook.com/camiladviana"
+  - title: orcid
+    url: "https://orcid.org/0000-0001-7093-0244"
 
 
 # Postal address (add as many lines as necessary). Shown in footer and on Contact page.
@@ -55,25 +57,35 @@ tel: +55 11 3091 4242
 
 # Members information. Shown on About page.
 members:
-  - name: Prof. Carlos Henrique Grohmann
+  - name: Prof. Carlos H. Grohmann
     position: Associate Professor - IEE-USP
     text: Head of [SPAMLab](https://spamlab.github.io/). We work together on research related to drones, GIS and digital models. Was my undergrad and PhD supervisor.
     img: guano1.jpg
     social:
-      - title: envelope #use for email address
-        url: mailto:guano@usp.br
+#      - title: envelope #use for email address
+#        url: mailto:guano@usp.br
       - title: url
         url: https://carlosgrohmann.com/
 
   - name: Prof. Ginaldo A. C. Campanha
-    position: Associate Professor - IGc-USP
+    position: Senior Professor - IGc-USP
     text: We work together on research related to structural geology. Was my MSc supervisor.
     img: Ginaldo-Campanha.jpg
     social:
-      - title: envelope #use for email address
-        url: mailto:guano@usp.br
+#      - title: envelope #use for email address
+#        url: mailto:guano@usp.br
       - title: url
-        url: https://carlosgrohmann.com/
+        url: http://lattes.cnpq.br/2971347311613974
+
+  - name: Prof. Caroline M. Gevaert
+    position: Assistant Professor - UT-ITC
+    text: We work together on using drone imagery and AI in Brazilian slums.
+    img: https://1348661504.rsc.cdn77.org/.uc/fe3d56e1c0101cf71020016616d031ecbe0cc212f968700/fpe-20210908-040.jpg
+    social:
+#      - title: envelope #use for email address
+#        url: mailto:guano@usp.br
+      - title: url
+        url: https://people.utwente.nl/c.m.gevaert
 
 # Clients information. Shown on Home and About pages.
 clients:
@@ -85,8 +97,7 @@ clients:
 
 
 # Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
-about: "I’m a PhD student at the Institute of Geosciences of the University of São Paulo, Brazil.
-My research interests include Photogrammetry, UAVs, LiDAR, Remote Sensing, Free Software (FOSS), DEMs, GIS, Structural Geology, Rock Mechanics and Rock Engineering."
+about: "I'm an Assistant Professor for Data Science and Artificial Intelligence in Geoscience at the Institute of Geosciences of the University of São Paulo, Brazil."
 
 # Testimonial content. Shown on Home and About page.
 #testimonial:
